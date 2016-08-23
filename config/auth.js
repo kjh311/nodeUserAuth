@@ -3,9 +3,10 @@
 module.exports = {
 
     'facebookAuth' : {
-        'clientID'      : '1637776563179067', // your App ID
-        'clientSecret'  : 'c1cdc33f2f7ca92da048a54231d67830', // your App Secret
-        'callbackURL'   : 'http://localhost:8080/auth/facebook/callback'
+        'clientID'      : '1603936839904015', // your App ID
+        'clientSecret'  : '7b36cd9b010138fd7e6283152f8e7d20', // your App Secret
+        // 'callbackURL'   : 'http://localhost:8080/auth/facebook/callback'
+        'callbackURL'   : 'https://mighty-island-26750.herokuapp.com/facebook/callback'
     },
 
     'twitterAuth' : {
